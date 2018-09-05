@@ -17,9 +17,11 @@ ________________________
 ### What is this talk about
 
 - About Docker, Paas and software
+- System infrastructure
 - Technical details
+- Alternative methods
+- Tips, issues and ideas
 - Real cases
-- Issues and ideas
 
 ---
 

@@ -135,6 +135,15 @@ See the [plan](https://github.com/theodorosploumis/drupal-docker-distros/issues/
 
 ---
 
+### [SerresTech](https://www.serrestech.gr) promotion :-)
+
+- 14 Dec 2018: [Live talk from CERN developers](https://www.meetup.com/Serrai-Software-Development-Meetup/events/255589847)
+- 19 Jan 2019 : Whole day event from Java core master [Martin Toshev](https://www.linkedin.com/in/martin-toshev-07046127), live streaming from Tokyo developers and more.
+
+---
+
+### Thank you!
+
 ![Thank you meme](images/thank_you.jpg)
 
 #### Questions?
